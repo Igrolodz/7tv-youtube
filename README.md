@@ -1,5 +1,5 @@
 # 7TV for youtube comments
-This is only a **concept idea** of how could emotes be added to youtube comments.
+This is only a **concept idea** of how could emotes be added to youtube comments that I made i like few hours.
 
 Thanks for considering it!
 ## How to use
