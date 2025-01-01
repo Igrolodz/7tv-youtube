@@ -9,5 +9,5 @@ Thanks for considering it!
 - Open Youtube video with comments containing the word **WHAT** or **om**
 
 > [!TIP]
-> I used this [video](https://www.youtube.com/watch?v=NHxi5_yDeYg) to test the extension
-> Look for comments of creator(WHAT emote) and Igrolodz(om emote)
+> I used this [video](https://www.youtube.com/watch?v=NHxi5_yDeYg) to test the extension.
+> Look for comments of creator(WHAT emote) and Igrolodz(om emote).
